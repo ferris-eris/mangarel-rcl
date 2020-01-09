@@ -1,0 +1,18 @@
+## Compiled JavaScript files
+lib/**/*.js
+**/*.js.map
+
+# Typescript v1 declaration files
+typings/
+
+# Testing# Testing
+/coverage
+
+# npm packages
+node_modules/
+
+# Firebase Admin SDK credential
+*firebase-adminsdk*.json
+
+# Firebase environment variables file
+.runtimeconfig.json
